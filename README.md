@@ -40,4 +40,43 @@ CREATE TABLE data_barang (
 
 ```
 **Hasil :**
+![foto](https://github.com/NadhiaShafira/Lab8Web./blob/a2017621632cec0e90789d9b45fe398cd544a281/SS_Prak8/Xamp.png)
+
+## 2. Membuat Koneksi Database (koneksi.php)
+
+Koneksi menggunakan mysqli_connect:
+
+```sql
+
+<?php
+$host = "localhost";
+$user = "root";
+$pass = "";
+$db   = "latihan1";
+
+$conn = mysqli_connect($host, $user, $pass, $db);
+if (!$conn) {
+  echo "Koneksi gagal: " . mysqli_connect_error();
+    die();
+}
+?>
+
+```
+
+## 📄 3. Menampilkan Data (index.php)
+
+Halaman utama menampilkan semua data dari `tabel data_barang` dalam bentuk tabel.
+
+Fitur pada halaman ini:
+
+`Menampilkan` data lengkap
+
+`Menampilkan` gambar
+
+`Tombol` Ubah
+
+`Tombol` Hapus
+
+`Tombol` Tambah Barang
+
 ![foto](
