@@ -22,6 +22,7 @@ Praktikum ini bertujuan untuk mempelajari:
 ---
 
 ## 🗄️ 1. Membuat Database & Tabel
+
 Database dibuat melalui phpMyAdmin:
 
 ```sql
@@ -39,7 +40,9 @@ CREATE TABLE data_barang (
 );
 
 ```
+
 **Hasil :**
+
 ![foto](https://github.com/NadhiaShafira/Lab8Web./blob/a2017621632cec0e90789d9b45fe398cd544a281/SS_Prak8/Xamp.png)
 
 ## 2. Membuat Koneksi Database (koneksi.php)
@@ -79,6 +82,8 @@ Fitur pada halaman ini:
 
 `Tombol` Tambah Barang
 
+**Hasil :**
+
 ![foto](https://github.com/NadhiaShafira/Lab8Web./blob/7be584f4b85a18dec4385243c71600edfd9d3289/SS_Prak8/Index.png)
 
 ## ➕ 4. Menambah Data Barang (tambah.php)
@@ -99,6 +104,8 @@ Pada bagian ini, user bisa menambahkan:
 
 Data yang diinput akan disimpan dalam database.
 
+**Hasil :**
+
 ![foto](https://github.com/NadhiaShafira/Lab8Web./blob/719dcc702e53e00cd51bee8e04eb5481925f865d/SS_Prak8/tambah.png)
 
 ## ✏️ 5. Mengubah Data (ubah.php)
@@ -118,6 +125,8 @@ Termasuk mengganti:
 
 Jika user tidak memilih gambar baru, gambar lama tetap digunakan.
 
+**Hasil :**
+
 ![foto](https://github.com/NadhiaShafira/Lab8Web./blob/3824c684ec5eb88e2621e10a3d3001c7039175b3/SS_Prak8/ubah.png)
 
 ## ❌ 6. Menghapus Data (hapus.php)
@@ -125,4 +134,6 @@ Jika user tidak memilih gambar baru, gambar lama tetap digunakan.
 Menghapus data barang berdasarkan ID.
 Setelah dihapus, halaman akan langsung kembali ke index.php.
 
-![foto](
+**Hasil :**
+
+![foto](https://github.com/NadhiaShafira/Lab8Web./blob/45d9ccde0e7283cf225861a8f8284b957b950ea6/SS_Prak8/hapus.png) 
