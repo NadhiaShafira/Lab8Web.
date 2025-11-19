@@ -1,9 +1,11 @@
 # Lab8Web.
 
-nama                : NADHIA SHAFIRA
+**NAMA                : NADHIA SHAFIRA**
 
-nim                 : 312410498
+**NIM                 : 312410498**
 
-kelas               : TI.24.A.5
+**KELAS               : TI.24.A.5**
 
-matkul              : PEMOGRAMAN WEB 1
+**MATKUL              : PEMOGRAMAN WEB 1**
+
+
