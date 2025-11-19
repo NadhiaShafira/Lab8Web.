@@ -99,4 +99,23 @@ Pada bagian ini, user bisa menambahkan:
 
 Data yang diinput akan disimpan dalam database.
 
+![foto](https://github.com/NadhiaShafira/Lab8Web./blob/719dcc702e53e00cd51bee8e04eb5481925f865d/SS_Prak8/tambah.png)
+
+## ✏️ 5. Mengubah Data (ubah.php)
+
+User bisa meng-update data barang yang sudah ada.
+Termasuk mengganti:
+
+`Nama` barang
+
+`Kategori`
+
+`Harga`
+
+`Stok`
+
+`Gambar` (opsional)
+
+Jika user tidak memilih gambar baru, gambar lama tetap digunakan.
+
 ![foto](
