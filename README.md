@@ -118,4 +118,11 @@ Termasuk mengganti:
 
 Jika user tidak memilih gambar baru, gambar lama tetap digunakan.
 
+![foto](https://github.com/NadhiaShafira/Lab8Web./blob/3824c684ec5eb88e2621e10a3d3001c7039175b3/SS_Prak8/ubah.png)
+
+## ❌ 6. Menghapus Data (hapus.php)
+
+Menghapus data barang berdasarkan ID.
+Setelah dihapus, halaman akan langsung kembali ke index.php.
+
 ![foto](
