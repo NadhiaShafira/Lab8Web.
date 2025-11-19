@@ -79,4 +79,24 @@ Fitur pada halaman ini:
 
 `Tombol` Tambah Barang
 
+![foto](https://github.com/NadhiaShafira/Lab8Web./blob/7be584f4b85a18dec4385243c71600edfd9d3289/SS_Prak8/Index.png)
+
+## ➕ 4. Menambah Data Barang (tambah.php)
+
+Pada bagian ini, user bisa menambahkan:
+
+`Nama` barang
+
+`Kategori`
+
+`Harga jual`
+
+`Harga beli`
+
+`Stok`
+
+`Upload` Gambar
+
+Data yang diinput akan disimpan dalam database.
+
 ![foto](
